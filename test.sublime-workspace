@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"ai",
+				"aiColumnMove"
+			],
+			[
+				"ao",
+				"aiRowMove"
+			],
+			[
+				"player",
+				"playerColumnPosition"
+			],
+			[
+				"pl",
+				"playerColumnPosition"
+			],
+			[
+				"pla",
+				"playerRowPosition"
+			],
+			[
+				"number1",
+				"number1bigger"
+			],
+			[
+				"num",
+				"number1bigger"
+			],
+			[
+				"float",
+				"float_number"
+			],
+			[
+				"Pro",
+				"Program3"
+			],
+			[
+				"word",
+				"word2"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"print",
+				"printBoard"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"middle",
+				"middleBall"
+			],
+			[
+				"ball_",
+				"ball_empty"
+			],
+			[
+				"ball",
+				"ballCorners"
+			],
+			[
+				"arra",
+				"arrayRemove"
+			],
+			[
+				"clic",
+				"click1"
+			],
+			[
+				"adde",
+				"addEvents2"
+			],
+			[
+				"addEv",
+				"addEvents2"
+			],
+			[
+				"remo",
+				"removeEvents"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"board",
+				"board"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"a",
+				"attackDamage"
+			],
+			[
+				"n",
+				"numeErou"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Andilozaur/Desktop/PythonPractice.py",
+			"settings":
+			{
+				"buffer_size": 1390,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Andilozaur/Desktop/XandO.py",
+			"settings":
+			{
+				"buffer_size": 2020,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Q/Desktop/LEGACY/table.html",
+			"settings":
+			{
+				"buffer_size": 1776,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python 3/Python3.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python compilator custom.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python 3/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+			"aa",
+			"ss",
+			"dd",
+			"py",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Andilozaur/Test/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/Andilozaur/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/Andilozaur/AppData/Roaming/Sublime Text 3/Packages/User/Python compilator custom.sublime-build",
+		"/Q/Programs/PIBOT/DETAILS.txt",
+		"/Q/Desktop/LEGACY/Info.html",
+		"/C/Users/Andilozaur/Test/Assets/Text/matrix.txt",
+		"/Q/Desktop/LEGACY/table.html",
+		"/Q/Programs/PIBOT/instabot.config.ini",
+		"/Q/Programs/PIBOT/config.yml",
+		"/C/Users/Andilozaur/Test/Assets/Scripts/test.cs",
+		"/C/Users/Andilozaur/Test/Assets/Scripts/AddConstantVelocity.cs",
+		"/\"0",
+		"/C/Users/Andilozaur/Test/test.sublime-project",
+		"/C/Users/Andilozaur/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/lib/omnisharp.py",
+		"/C/Users/Andilozaur/Test/SublimePack.sublime-project",
+		"/C/Users/Andilozaur/Documents/Rainmeter/Skins/Windows Media Player/readme.txt",
+		"/C/Users/Andilozaur/Desktop/⁮/Desktop/JAVASCRIPT DOCUMENTATION.txt",
+		"/Q/Desktop/LEGACY/gamecss.css",
+		"/C/Users/Andilozaur/Downloads/tinyraycaster-master/tinyraycaster-master/README.md",
+		"/Q/Desktop/LEGACY/game.html",
+		"/Q/Desktop/LEGACY/GM_MASTER/game.html",
+		"/C/Users/Andilozaur/Downloads/udacity-pixel-art-maker-vanilla-javascript/udacity-pixel-art-maker-vanilla-javascript/dist/script.js",
+		"/Q/Desktop/LEGACY/.babelrc",
+		"/C/Users/Andilozaur/Downloads/instabot.py-master/instabot.py-master/sample.instabot.config.yml",
+		"/Q/GIT/peg_solitaire/game.html",
+		"/C/Users/Andilozaur/Desktop/instabot.config.ini",
+		"/Q/Programs/instabot.py-master/example.py",
+		"/Q/Programs/instabot.py-master/instabot.config.ini",
+		"/C/Users/Andilozaur/Desktop/JAVASCRIPT DOCUMENTATION.txt",
+		"/C/Users/Andilozaur/Desktop/JAVASCRIPT REVISION.txt",
+		"/Q/Programs/Git/ReleaseNotes.html",
+		"/C/Users/Andilozaur/ts-test/main.js",
+		"/C/Users/Andilozaur/.angular-config.json",
+		"/C/Users/Andilozaur/ts-test/second.js",
+		"/Q/Desktop/LEGACY/navigator.js",
+		"/Q/Desktop/LEGACY/index.html",
+		"/Q/Programs/PIBOT/one.meme.for.me.db",
+		"/C/Users/Andilozaur/AppData/Local/Programs/Python/Python37/Lib/site-packages/instabot_py-0.5.9-py3.7.egg",
+		"/C/Users/Andilozaur/AppData/Local/Programs/Python/Python38/Lib/site-packages/instabot_py/config.py",
+		"/Q/Desktop/LEGACY/GM_MASTER/gamecss.css",
+		"/Q/Desktop/LEGACY/game.js",
+		"/Q/Desktop/LEGACY/navigator.html",
+		"/C/Users/Andilozaur/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/C/Users/Andilozaur/Documents/Rainmeter/Skins/VisBubble/BarExtrude.ini",
+		"/C/Users/Andilozaur/Documents/Rainmeter/Skins/UI White/Search/Search.ini",
+		"/C/Users/Andilozaur/Desktop/example-.io-game-master/example-.io-game-master/src/client/index.js",
+		"/C/Users/Andilozaur/Desktop/example-.io-game-master/example-.io-game-master/webpack.common.js",
+		"/C/Users/Andilozaur/Documents/Rainmeter/Skins/VisBubble/WaveStereo.ini",
+		"/C/Users/Andilozaur/Desktop/JAVASCRIPT FOR RPI/New Text Document.html",
+		"/C/Users/Andilozaur/Downloads/udacity-pixel-art-maker-vanilla-javascript/udacity-pixel-art-maker-vanilla-javascript/dist/index.html",
+		"/C/Users/Andilozaur/Downloads/udacity-pixel-art-maker-vanilla-javascript/udacity-pixel-art-maker-vanilla-javascript/dist/style.css",
+		"/C/Users/Andilozaur/Downloads/udacity-pixel-art-maker-vanilla-javascript/udacity-pixel-art-maker-vanilla-javascript/README.markdown",
+		"/D/cmdline.txt",
+		"/D/wpa_supplicant.conf",
+		"/D/wpa_supplicant.txt",
+		"/D/issue.txt",
+		"/D/config.txt",
+		"/Q/Desktop/LEGACY/style.css",
+		"/C/Users/Andilozaur/Desktop/New Text Document (3).html",
+		"/C/Users/Andilozaur/Downloads/TicTacToeTutorial-master/TicTacToeTutorial-master/README.md",
+		"/Q/Desktop/LEGACY/node_modules/j5/README.md",
+		"/Q/Desktop/LEGACY/node_modules/j5/index.html",
+		"/Q/Desktop/LEGACY/package.json",
+		"/C/Users/Andilozaur/Desktop/example-.io-game-master/example-.io-game-master/README.md",
+		"/C/Users/Andilozaur/myTestApp/app.js",
+		"/C/Users/Andilozaur/Desktop/UIPATH documentation.txt",
+		"/C/Users/Andilozaur/Desktop/painINC.txt",
+		"/Q/Desktop/Important.txt",
+		"/C/Users/Andilozaur/Desktop/New Text Document (2).txt",
+		"/C/Users/Andilozaur/Downloads/d3/README.md",
+		"/C/Users/Andilozaur/test.js",
+		"/C/Users/Andilozaur/Desktop/html/index.html",
+		"/C/Users/Andilozaur/Desktop/html/aboutme.html",
+		"/C/Users/Andilozaur/Desktop/x360ce.ini",
+		"/C/Users/Andilozaur/Desktop/styles.css",
+		"/C/Users/Andilozaur/Downloads/html-css-cheat-sheet-solution/index.html",
+		"/Q/Desktop/LEGACY/tablecss.css",
+		"/Q/Desktop/LEGACY/cooking style.css",
+		"/Q/Desktop/LEGACY/Cooking.html",
+		"/Q/Desktop/LEGACY/NOTES.txt",
+		"/C/Users/Andilozaur/Commerce/src/app/app.component.ts",
+		"/C/Users/Andilozaur/Downloads/Strumpets2-82/Strumpets Readme.txt",
+		"/C/Users/Andilozaur/Downloads/html-css-cheatsheet-starting/index.html",
+		"/C/Users/Andilozaur/Downloads/html-css-cheatsheet-starting/styles.css",
+		"/Q/Desktop/Legacy prank/index.html",
+		"/C/Users/Andilozaur/ts-test/test.ts.txt",
+		"/C/Users/Andilozaur/Commerce/README.md",
+		"/C/Users/Andilozaur/Downloads/studio3-development/studio3-development/README.md",
+		"/C/Users/Andilozaur/Downloads/microsoft-toolkit-Activator/microsoft-toolkit-Activator/password.txt",
+		"/Q/Games/AOM/gfxconfig2/i845.gfx",
+		"/Q/Games/AOM/gfxconfig/i845.gfx",
+		"/Q/Games/AOM/gfxconfig2/geforce3.gfx",
+		"/Q/Games/AOM/gfxconfig/geforce3.gfx",
+		"/C/Users/Andilozaur/Desktop/New Text Document.txt"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Andilozaur/Desktop/PythonPractice.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								757,
+								757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python 3/Python3.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Andilozaur/Desktop/XandO.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python 3/Python3.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 185.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Q/Desktop/LEGACY/table.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1774,
+								1774
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 218.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
